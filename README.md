@@ -1,1 +1,2 @@
 # hello-kid
+print ('hello')
